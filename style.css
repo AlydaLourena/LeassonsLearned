@@ -1,3 +1,13 @@
 body{
     background-color: rgb 253, 251, 251;
 }
+
+#cabecalho{
+    top: 0;
+}
+
+#minha_foto{
+    max-width: 200px;
+    max-height:230px;
+    vertical-align: top
+}
