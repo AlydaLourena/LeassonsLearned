@@ -23,3 +23,10 @@ article{
     font-style: italic;
     color: rgb(13, 103, 13);
 }
+
+aside{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-style: normal;
+    color: black;
+}
